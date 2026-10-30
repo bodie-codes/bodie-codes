@@ -1,6 +1,6 @@
 # Hi, I'm Bodie 👋
 
-**AI Engineer** · Havířov, Czechia → Ottawa, Canada
+**AI Engineer** · Havířov, Czechia → Calgary, Canada
 
 I build AI systems that matter: intelligent applications, platforms and automation that solve real problems. Self-taught developer, now focused on AI agents, LLM-powered apps and full-stack products.
 
