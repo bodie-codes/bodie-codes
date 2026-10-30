@@ -2,7 +2,7 @@
 
 **AI Engineer** · Havířov, Czechia → Calgary, Canada
 
-I build AI systems that matter: intelligent applications, platforms and automation that solve real problems. Self-taught developer, now focused on AI agents, LLM-powered apps and full-stack products.
+I build AI systems that matter: AI agents, automations and AI-powered products that solve real problems. Former sales professional turned AI engineer, now focused on AI agents, LLM-powered apps and full-stack products.
 
 🌐 **Portfolio:** [www.bodiecodes.com](https://www.bodiecodes.com)
 ✉️ **Email:** bodie@bodiecodes.com
